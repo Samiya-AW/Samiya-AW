@@ -5,7 +5,7 @@
 ---
 
 ## 🔬 Research & Publications  
-- 📝 **3 research papers**in:  
+- 📝 **3 research papers** in:  
   - Augmented reality for children’s learning  
   - Game-based learning in the metaverse (virtual chemistry classroom)  
   - AI for medical imaging (breast cancer detection)  
