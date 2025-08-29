@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Samiya  
 
-🎓 I am a developer passionate about **AI, computer science, psychology, human–computer interaction, cognitive science, and behavioral data science.**.  
+🎓 I am a developer passionate about **AI, computer science, psychology, human–computer interaction, cognitive science, and behavioral data science.** 
 
 ---
 
