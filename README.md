@@ -33,8 +33,8 @@
 ## ⚡ Technical Skills  
 
 **Languages**: Python, C++, JavaScript, TypeScript, HTML, CSS, LaTeX  
-**Frameworks**: React, Next.js, FastAPI, Flask, Tailwind CSS  
-**Libraries**: Pandas, NumPy, Matplotlib, Transformers, Gradio, Streamlit  
+**Frameworks**: Next.js, FastAPI, Flask, Tailwind CSS  
+**Libraries**: Pandas, NumPy, Matplotlib, React, Transformers, Gradio, Streamlit  
 **Databases**: SQLite, SQL Server  
 **LLMs & AI APIs**: OpenAI API, Hugging Face Models, Llama API, Gemma, Groq  
 **Tools**: PyCharm, VS Code, Anaconda, Git, GitHub, Google Colab  
